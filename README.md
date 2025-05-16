@@ -37,7 +37,3 @@
 </div>
 
 ---
-
-## 🐍 GitHub Contributions
-
----
