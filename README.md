@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#38BDF8;">Alessandro Fabbri</span></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Science+Engineering+Student;Passionate+about+VideoGames+and+IA;I+am+the+greatest+humanity+has+to+offer+,+and+the+lowest+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Passionate+about+VideoGames+and+IA;I+am+the+greatest+humanity+has+to+offer+,+and+the+lowest+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -33,8 +33,8 @@
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiKee-1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiKee-1&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Al3fabbrii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Al3fabbrii&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
