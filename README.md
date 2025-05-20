@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#38BDF8;">Alessandro Fabbri</span></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Passionate+about+VideoGames+and+IA;I+am+the+greatest+humanity+has+to+offer+,+and+the+lowest+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Videogames+lover;I+am+the+greatest+humanity;has+to+offer;+and+the+lowest+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/C%2B%2B--violet?style=flat&logo=cplusplus&logoColor=violet&color=white" alt="C++"/>
 </div>
 
 ---
