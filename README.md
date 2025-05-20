@@ -1,15 +1,15 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#38BDF8;">Alessandro Fabbri</span></h1>
+<h1 align="center">Hi there , I'm <span style="color:#38BDF8;">Alessandro Fabbri</span></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Videogames+lover;I+am+the+greatest+humanity;has+to+offer;+and+the+lowest+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Videogames+lover;I+am+the+greatest+humanity;has+to+offer;+and+the+lowest" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 🎓 I'm a **Computer Science Engineer**, specializing in **Videogames**, **IA** and **Software**.  
-🧠 My favorites are:
+🧠 My interests are:
 - VideoGames
 - Software development
 - Web Design
