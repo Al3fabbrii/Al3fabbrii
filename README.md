@@ -7,7 +7,7 @@
 ---
 
   ## About Me
-  🎓 I'm a **Computer Science Engineer**, specializing in **Videogames** (self-taught), **IA** and **Software**.  
+  🎓 I'm a **Computer Science Engineer**, specializing in **Videogames** (self-taught), **AI** and **Software**.  
 🧠 My interests are:
  - VideoGames
  - Software development
