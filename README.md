@@ -1,7 +1,7 @@
 <h1 align="center">Hello there , I'm <span style="color:#38BDF8;">Alessandro Fabbri</span></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Videogames+lover;I'm+enjoying+the+uselessness+of+today;and+readying+my+usefullness+for+tomorrow;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=38BDF8&center=true&vCenter=true&width=550&lines=Computer+Science+Engineer;Videogames+lover;I'm+enjoying+the+uselessness+of+today;and+readying+my+usefullness+for+tomorrow;" alt="Typing SVG" />
 </div>
 
 ---
