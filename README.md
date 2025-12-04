@@ -1,17 +1,19 @@
 <h1 align="center">Hello there , I'm <span style="color:#38BDF8;">Alessandro Fabbri</span></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=38BDF8&center=true&vCenter=true&width=550&lines=Computer+Science+Engineer;Videogames+lover;I'm+enjoying+the+uselessness+of+today;and+readying+my+usefullness+for+tomorrow;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=336699&center=true&vCenter=true&width=550&lines=Computer+Science+Engineer;Videogames+lover;I'm+enjoying+the+uselessness+of+today;and+readying+my+usefullness+for+tomorrow;" alt="Typing SVG" />
 </div>
 
 ---
 
   ## About Me
-  🎓 I'm a **Computer Science Engineer**, specializing in **Videogames** (self-taught), **AI** and **Software**.  
+  🎓 I'm a **Computer Science Engineer**, specializing in **Videogames** (self-taught), **AI**, **Software**, **Big data** and **Web Design**.  
 🧠 My interests are:
  - VideoGames
  - Software development
  - Web Design
+ - Big data
+ - AI
 
 
 
@@ -37,6 +39,7 @@
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Angular](https://img.shields.io/badge/AngularLogo?style=for-the-badge&logo=angular&logoColor=white)
 
 
 </div>
