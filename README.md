@@ -1,7 +1,7 @@
 <h1 align="center">Hello there , I'm <span style="color:#38BDF8;">Alessandro Fabbri</span></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Videogames+lover;I+am+the+greatest+humanity;has+to+offer;+and+the+lowest" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Videogames+lover;I'm+enjoying+the+uselessness+of+today+and+readying+my+usefullness+for+tomorrow;" alt="Typing SVG" />
 </div>
 
 ---
@@ -41,14 +41,3 @@
 
 </div>
 
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Al3fabbrii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Al3fabbrii&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
