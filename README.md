@@ -39,7 +39,8 @@
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-  ![Angular](https://img.shields.io/badge/AngularLogo?style=for-the-badge&logo=angular&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-E91E63?style=for-the-badge&logo=angular&logoColor=white)
+
 
 
 </div>
